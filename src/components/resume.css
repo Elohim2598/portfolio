@@ -1,0 +1,72 @@
+.resume {
+  height: auto;
+}
+
+.title-container {
+  background-image: url(../images/resumebg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.name-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 20vh;
+  padding-left: 1rem;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.name {
+  color: #fff;
+}
+
+.row {
+  display: flex;
+}
+
+.columnleft {
+  flex: 40%;
+  padding: 2rem;
+  background-color: #590d22;
+  color: wheat;
+}
+
+.columnright {
+  flex: 60%;
+  background-color: rgba(128, 15, 47, 1);
+  padding: 2rem;
+  color: wheat;
+}
+
+.courses > ul {
+  list-style-type: none;
+}
+
+.courses > li::before {
+  content: '\2022';
+
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+.courses > li {
+  justify-content: flex-start;
+  font-size: smaller;
+}
+
+.inst {
+  margin-top: 1rem;
+}
+
+.resume-titles {
+  margin-top: 3rem;
+}
+
+.captionthis {
+  color: #fff;
+  font-size: 2rem;
+  font-weight: bold;
+}
