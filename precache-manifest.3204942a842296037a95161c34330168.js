@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "a95f44b3fd9943312846",
-    "url": "/portfolio/static/css/main.da51efe9.chunk.css"
+    "revision": "b8e8ec18878269a1fa3f",
+    "url": "/portfolio/static/css/main.ae7b0810.chunk.css"
   },
   {
-    "revision": "a95f44b3fd9943312846",
-    "url": "/portfolio/static/js/main.a95f44b3.chunk.js"
+    "revision": "b8e8ec18878269a1fa3f",
+    "url": "/portfolio/static/js/main.b8e8ec18.chunk.js"
   },
   {
-    "revision": "51d72351afee2f4d4da9",
-    "url": "/portfolio/static/js/1.51d72351.chunk.js"
+    "revision": "d1d4a9601d4a3eac4744",
+    "url": "/portfolio/static/js/1.d1d4a960.chunk.js"
   },
   {
     "revision": "ee2a100325fd284f0097",
@@ -28,6 +28,10 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/foodrecipesapp.3e55724b.png"
   },
   {
+    "revision": "f64ed804b091e701bdeda42753def150",
+    "url": "/portfolio/static/media/starwarsapp.f64ed804.jpg"
+  },
+  {
     "revision": "0cd580f1fbd0d2e61c647b85f7058a37",
     "url": "/portfolio/static/media/newsapp1.0cd580f1.png"
   },
@@ -40,8 +44,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/memegenerator.9afab20b.png"
   },
   {
-    "revision": "7aab568ca549b65135b734438e5c7558",
-    "url": "/portfolio/static/media/weatherapp.7aab568c.png"
+    "revision": "611dd17a03ecc795bc9ab0febce7964e",
+    "url": "/portfolio/static/media/weatherapp.611dd17a.png"
+  },
+  {
+    "revision": "87a853dfa25552c9d9225098403a0c85",
+    "url": "/portfolio/static/media/passwordmanagerapp.87a853df.png"
   },
   {
     "revision": "b848d5d9bb221592064de0f356f61676",
@@ -60,6 +68,10 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/react.f297dfcd.png"
   },
   {
+    "revision": "80b30c0b01663b02f2434aafc6dc4d6d",
+    "url": "/portfolio/static/media/nextjs.80b30c0b.png"
+  },
+  {
     "revision": "bff6b2788849ed735b91799212e1d4c4",
     "url": "/portfolio/static/media/typescript.bff6b278.png"
   },
@@ -68,7 +80,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/resumebg.50a729cb.jpg"
   },
   {
-    "revision": "b5841b1c291242f4b33e349adeeaaf97",
+    "revision": "6884e7dc792375775b16fff4898953b3",
     "url": "/portfolio/index.html"
   }
 ];
