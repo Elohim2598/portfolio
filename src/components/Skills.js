@@ -5,7 +5,6 @@ import sass from '../images/sass.png';
 import html from '../images/html.png';
 import js from '../images/javascript.png';
 import react from '../images/react.png';
-import typescript from '../images/typescript.png';
 import nextjs from '../images/nextjs.png';
 // import { useSpring, animated } from 'react-spring';
 

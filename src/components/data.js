@@ -55,8 +55,7 @@ const exported = [
     coverImg: starwarsapp,
     description:
       'This is a fully responsive web application that allows you to search and see stats of all Star Wars characters. Leveraging Next.js and the Star Wars character API',
-    url:
-      'https://https://starwars-characters-7063yxh2y-elohim2598.vercel.app/.github.io/weather-app/',
+    url: 'https://starwars-characters-rose.vercel.app/',
   },
   {
     id: 7,

@@ -17,12 +17,15 @@ function Resume() {
           <div className="skill-container">
             <h2 className="resume-titles">SKILLS</h2>
             <ul className="courses">
-              <li>HTML</li>
-              <li>CSS</li>
-              <li>SASS</li>
-              <li>JavaScript</li>
-              <li>Next.js</li>
-              <li>React</li>
+              <li className="skill-element">HTML</li>
+              <li className="skill-element">CSS</li>
+              <li className="skill-element">SASS</li>
+              <li className="skill-element">JavaScript</li>
+              <li className="skill-element">Next.js</li>
+              <li className="skill-element">React</li>
+              <li className="skill-element">
+                English proficiency (EF SET C2 Proficient)
+              </li>
             </ul>
           </div>
           <br></br>
@@ -32,7 +35,7 @@ function Resume() {
               <li>Hughes Schools (bilingual education)</li>
               <br />
               <li>
-                Qualified for finals at 2014C++ coding Olympics atschool.
+                Qualified for finals at 2014 C++ coding Olympics at school.
                 (Plurinacionales)
               </li>
             </ul>
@@ -78,14 +81,7 @@ function Resume() {
               <li>"Learn TypeScript" with Ania Kubow</li>
               <li>"Learn React JS" with Bob Ziroll</li>
             </ul>
-            <h3 className="inst">Srimba (January-March 2022)</h3>
-            <ul className="courses">
-              <li>Learn Flexbox" with Per Harald Borgen</li>
-              <li>"Learn CSS Grid" with Per Harald Borgen</li>
-              <li>"Learn JavaScript" with Per Harald Borgen</li>
-              <li>"Learn TypeScript" with Ania Kubow</li>
-              <li>"Learn React JS" with Bob Ziroll</li>
-            </ul>
+
             <h3 className="inst">freeCodeCamp (March-Present)</h3>
             <ul className="courses">
               <li>
